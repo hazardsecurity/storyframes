@@ -1,0 +1,15 @@
+{
+  "name": "storyframes",
+  "description": "storyframes: a Claude Code skill for making character-driven product explainer videos with HyperFrames.",
+  "owner": {
+    "name": "Hazardsecurity",
+    "url": "https://hazardsecurity.xyz"
+  },
+  "plugins": [
+    {
+      "name": "storyframes",
+      "source": "./",
+      "description": "Make character-driven motion explainer videos for your product, rendered with HyperFrames."
+    }
+  ]
+}
